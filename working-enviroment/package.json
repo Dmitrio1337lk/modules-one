@@ -1,0 +1,22 @@
+{
+  "name": "defender-game",
+  "version": "1.0.0",
+  "description": "Browser based game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dmitrio1337lk/ajs-homeworks.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "f0rza1337lk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dmitrio1337lk/ajs-homeworks/issues"
+  },
+  "homepage": "https://github.com/Dmitrio1337lk/ajs-homeworks#readme"
+}
