@@ -37,9 +37,6 @@
   "dependencies": {
     "core-js": "^3.6.5"
   },
-  "directories": {
-    "test": "test"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Dmitrio1337lk/ajs-homeworks.git#master"
